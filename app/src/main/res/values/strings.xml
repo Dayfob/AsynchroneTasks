@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Asynchrone Tasks</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="download_page">Download page</string>
+</resources>
